@@ -19,7 +19,7 @@ public class Item {
         return name;
     }
 
-    public float getPrice() {
+    public int getPrice() {
         return price;
     }
 
